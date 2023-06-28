@@ -1,15 +1,13 @@
 ## Features
-
+<img src="./picture/example.gif" alt="example" style="zoom:50%;" />
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+This is a product that easily achieves sliding adsorption effect, it is realized by custom ScrollPhysics, you will like it.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+It can be used in any sliding control that supports physics parameters, and it is very simple to use.
 
 ```dart
 // ListView
@@ -23,9 +21,3 @@ physics: const SnapScrollPhysics(snapHeight: 250)
 );
 
 ```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
