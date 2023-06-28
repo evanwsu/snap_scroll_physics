@@ -107,13 +107,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.99"
-  snap_scroll_physics:
+  snapx_scroll_physics:
     dependency: "direct main"
     description:
       path: ".."
       relative: true
     source: path
-    version: "0.0.1"
+    version: "1.0.0"
   source_span:
     dependency: transitive
     description:

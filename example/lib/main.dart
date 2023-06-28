@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:snap_scroll_physics/snap_scroll_physics.dart';
+import 'package:snapx_scroll_physics/snap_scroll_physics.dart';
 
 void main() {
   runApp(const MyApp());
