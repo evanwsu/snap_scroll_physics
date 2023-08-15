@@ -1,4 +1,4 @@
-library snap_scroll_physics;
+library snapx_scroll_physics;
 
 import 'dart:math' as math;
 

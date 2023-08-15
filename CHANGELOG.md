@@ -1,3 +1,7 @@
+## 1.0.1
+
+* Modify the GIF path.
+
 ## 1.0.0
 
-* 初始化项目
+* Initialize the project.
