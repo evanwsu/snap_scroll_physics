@@ -1,5 +1,5 @@
 ## Features
-<img src="./picture/example.gif" alt="example" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/evansherry/snap_scroll_physics/master/picture/example.gif" alt="example" style="zoom:50%;" />
 
 ## Getting started
 

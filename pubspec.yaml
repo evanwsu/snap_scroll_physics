@@ -1,7 +1,8 @@
 name: snapx_scroll_physics
-description: 实现物理滑动吸附功能.
-version: 1.0.0
-homepage:
+description: Implement physical sliding adsorption feature.
+
+version: 1.0.1
+homepage: https://github.com/evansherry/snap_scroll_physics
 
 environment:
   sdk: '>=2.18.5 <3.0.0'
